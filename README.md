@@ -1,4 +1,4 @@
-### Hola 👋, my name is Hugo
+### Hola 👋
 
 Habilidades: PYTHON / DJANGO / JS / HTML / CSS
 
@@ -7,4 +7,4 @@ Habilidades: PYTHON / DJANGO / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hugo/214)  
 
-![Profile views](https://gpvc.arturio.dev/Hugo/214)  
+![Profile views](https://gpvc.arturio.dev/Hugo214)  
