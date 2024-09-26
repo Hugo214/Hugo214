@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **Hugo214** 😁</h1>
+<h1 align="center">Hi 👋, I'm Hugo214 😁</h1>
 
 
 ✍️ I am currently learning new technologies and new methods of **WEB Development Full-Stack**
