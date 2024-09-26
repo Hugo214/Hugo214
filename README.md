@@ -2,7 +2,7 @@
 
 
 ✍️ I am currently learning new technologies and new methods of **WEB Development Full-Stack**
-<iframe align="right" alt="Coding" width="300" src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv"></iframe>
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEydTZjM2poeGlsOHJnY3Q3eTc0bWt0aTRwOTFjc2p4amNlemx1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
 
 
 
